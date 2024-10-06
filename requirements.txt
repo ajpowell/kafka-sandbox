@@ -1,0 +1,2 @@
+requests==2.32.3
+quixstreams==2.11.1
